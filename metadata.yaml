@@ -1,0 +1,27 @@
+_repo: Recent-Tendencies-in-Ethics--13-Three-Lectures-to-Clergy-Given-at-Cambridge_12492
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sorley, W. R. (William Ritchie)
+    alias: Sorley, William Ritchie
+    birthdate: 1855
+    deathdate: 1935
+    gutenberg_agent_id: '4397'
+    url: http://www.gutenberg.org/2009/agents/4397
+    wikipedia: http://en.wikipedia.org/wiki/William_Ritchie_Sorley
+description: Characteristics -- Ethics and evolution -- Ethics and idealism.
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12492'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethics'
+- !lcc 'BJ'
+- GITenberg
+tableOfContents: Characteristics -- Ethics and evolution -- Ethics and idealism.
+title: "Recent Tendencies in Ethics\r\nThree Lectures to Clergy Given at Cambridge"
+url: http://www.gutenberg.org/ebooks/12492
